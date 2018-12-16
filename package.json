@@ -1,0 +1,26 @@
+{
+  "name": "07_Testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicocarosio/testing.git"
+  },
+  "keywords": [],
+  "author": "Nico Carosio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicocarosio/testing/issues"
+  },
+  "homepage": "https://github.com/nicocarosio/testing#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
